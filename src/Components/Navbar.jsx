@@ -28,11 +28,11 @@ export default function Navbar() {
                     <div className="col-lg-8 px-5 text-end">
                         <div className="h-100 d-inline-flex align-items-center py-3 me-4">
                             <small className="fa fa-phone-alt text-primary me-2"></small>
-                            <small><Link to="tel:9873848046">+91-9873848046</Link></small>
+                            <small><Link to="tel:9873848046">+91-9065135324</Link></small>
                         </div>
                         <div className="h-100 d-inline-flex align-items-center py-3 me-4">
                             <small className="fa fa-envelope text-primary me-2"></small>
-                            <small><Link to="mailto:vishankchauhan@gmail.com">vishankchauhan@gmail.com</Link></small>
+                            <small><Link to="mailto:vishankchauhan@gmail.com">rajaji12102000@gmail.com</Link></small>
                         </div>
                         <div className="h-100 d-inline-flex align-items-center">
                             <Link className="btn btn-sm-square bg-white text-primary me-1" to=""><i className="fab fa-facebook-f"></i></Link>
@@ -65,7 +65,7 @@ export default function Navbar() {
                     {
                         localStorage.getItem("login") ?
                             <div className="nav-item dropdown bg-danger">
-                                <a to="#" className="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">Nitin Chauhan</a>
+                                <a to="#" className="nav-link dropdown-toggle text-light" data-bs-toggle="dropdown">Raja kumar</a>
                                 <div className="dropdown-menu fade-up m-0">
                                     <Link to="/profile" className="dropdown-item">Proifle</Link>
                                     <Link to="/cart" className="dropdown-item">Cart</Link>
