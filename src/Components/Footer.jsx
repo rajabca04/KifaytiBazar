@@ -11,8 +11,8 @@ export default function Footer() {
                         <div className="col-lg-4 col-md-6">
                             <h4 className="text-light mb-4">Address</h4>
                             <p className="mb-2"><i className="fa fa-map-marker-alt me-3"></i>A-43, Sector 16, Noida, India</p>
-                            <p className="mb-2"><i className="fa fa-phone-alt me-3"></i><Link className='text-light' to="tel:9873848046">9873848046</Link></p>
-                            <p className="mb-2"><i className="fa fa-envelope me-3"></i><Link className='text-light' to="mailto:vishankchauhan@gmail.com">vishankchauhan@gmail.com</Link></p>
+                            <p className="mb-2"><i className="fa fa-phone-alt me-3"></i><Link className='text-light' to="tel:9873848046">9065135324</Link></p>
+                            <p className="mb-2"><i className="fa fa-envelope me-3"></i><Link className='text-light' to="mailto:vishankchauhan@gmail.com">rajaji12102000@gmail.com</Link></p>
                             <div className="d-flex pt-2">
                                 <Link className="btn btn-outline-light btn-social" to=""><i className="fab fa-twitter"></i></Link>
                                 <Link className="btn btn-outline-light btn-social" to=""><i className="fab fa-facebook-f"></i></Link>
